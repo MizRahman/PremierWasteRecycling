@@ -1,0 +1,274 @@
+a:hover, a:focus {
+color: #bb9453;
+text-decoration: none;
+}
+::selection {
+	background: #bb9453; /* Safari */
+	color:#fff;
+	}
+::-moz-selection {
+	background: #bb9453; /* Firefox */
+	color:#fff;
+}
+header{
+background-color: #bb9453;
+}
+ul.navbar-nav li a.active, .fixedmenu ul.menu li a.active, ul.my_menu ul.sub-menu li a.active{
+color:#bb9453 !important;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+color: #bb9453;
+}
+ul.my_menu ul.sub-menu li:hover{
+background: #bb9453;
+}
+ul.my_menu li.eco_bigmenu ul.sub-menu li.eco_pmcmenutitle ul.sub-menu li:hover a {
+color: #bb9453 !important;
+}
+ul.my_menu ul.sub-menu{
+border-bottom-color: #bb9453;
+}
+.menu li a:hover {
+color: #bb9453;
+}
+.tp-leftarrow.default:hover, .tp-rightarrow.default:hover {
+background-color: rgba(187, 148, 83, 0.85) !important;
+}
+.eco_slider_head_text, .eco_slider_head_text1, .eco_slider_head_text2{
+color: #bb9453;
+}
+.eco_color{
+color:#bb9453;
+}
+.tp-caption a:hover {
+background: #bb9453;
+}
+.eco_service_icon{
+box-shadow: 0px 0px 0px 5px #bb9453;
+background: #bb9453;
+}
+.eco_service_icon:hover{
+border-color:#bb9453 !important;
+}
+.eco_btn{
+background:#a9823d;
+border-bottom-color: #9e7732;
+}
+.eco_border_line{
+background: #bb9355;
+}
+.eco_featured_green img{
+border: 0px solid #bc9353;
+background: #bc9353;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+background-color: #a9823d !important;
+border-color: #9e7732 !important;
+}
+.btn-primary {
+background-color: #a9823d !important;
+border-color: #9e7732 !important;
+}
+.gototop{
+background: #a9823d;
+border-bottom-color:#9e7732;
+}
+.gototop:hover {
+background-color: #a9823d;
+}
+.eco_contact_btn a:hover{
+background:#bb9453;
+}
+.eco_footer_tag a:hover {
+background: #bb9453;
+color:#fff;
+}
+.eco_footer_content li:hover a {
+color: #bb9453;
+}
+.eco_copyight a {
+color: #bb9453;
+}
+ul.eco_filter_title li a:hover, ul.eco_filter_title li a.active{
+background: #bb9453;
+}
+.eco_restoration ul li .eco_restoration_content .eco_restoration_img {
+background: #bb9453;
+}
+.eco_home_count i{
+color: #bb9453;
+}
+.eco_count_number_border{
+background: #bb9453;
+}
+.eco_port_recentimage .eco_port_overdefult{
+background: rgba(187, 148, 83, 0.85);
+}
+.eco-blog-img-hover{
+background-color: rgba(187, 148, 83, 0.8);
+}
+.breadcrumb > .active {
+color: #bb9453;
+}
+.eco_sidebar_post:hover .eco_sidebar_line {
+border-bottom-color: #bb9453;
+}
+.eco_blog_icon, .eco_blog_icon:after{
+background: #bb9453;
+}
+.eco_blog_info span a, .eco_blog_info a {
+color: #bb9453;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+background-color: #bb9453;
+border-color: #bb9453;
+}
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
+background-color: #bb9453;
+border-color: #bb9453;
+}
+.eco_bread ol li a:hover {
+color: #bb9453;
+}
+.eco_port_min_recentimage{
+border-top-color:#bb9453;
+}
+blockquote:hover{
+border-left-color:#bb9453;
+}
+.eco_img_icon{
+border-color: #bb9453;
+background: #bb9453;
+}
+.eco_img_post_data ul li img:hover{
+border-color:#bb9453;
+}
+.btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open > .dropdown-toggle.btn-success{
+background-color: #bb9453;
+border-color: #bb9453;
+}
+.carousel-control:hover, .carousel-control:focus{
+background: #bb9453;
+}
+.eco_port_skill i {
+color: #bb9453;
+}
+.eco_blockquote_blue blockquote:hover, .eco_blockquote_red blockquote:hover, .eco_blockquote_green blockquote:hover, .eco_blockquote_grey blockquote:hover{
+border-color: #bb9453;
+}
+ul.pager i:hover {
+color: #bb9453;
+}
+.eco_blockquote_green blockquote{
+border-color: #bb9453;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, .ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus{
+background-color:#bb9453;
+}
+.nav-tabs > li.active:before, .nav-tabs > li:hover:before{
+background-color:#bb9453;
+}
+.nav-tabs > li.active:hover, .nav-tabs > li:hover, .nav-tabs > li.active:focus, .nav-tabs > li:focus, .nav-tabs > li > a:hover{
+background: #bb9453;
+}
+h6.eco_subheading {
+color: #bb9453;
+}
+h2.eco_trigger.active, h2.eco_trigger:hover {
+background: #bb9453;
+}
+.eco_color5{
+color: #bb9453;
+}
+.progress-bar-success {
+background-color: #bb9453;
+}
+.eco_pricing_green{
+background-color: #bb9453;
+}
+.eco_rounded_pricetable.eco_pricing_green .eco_pricing_heading {
+background: #80a93d;
+}
+.eco_rounded_pricetable.eco_pricing_green .eco_pricing_heading {
+background: #9E7C44;
+}
+.eco_rounded_pricetable.eco_pricing_green .eco_pricing_heading .eco_table_price {
+background: #bb9453;
+border-color: #9E7C44;
+}
+.eco_rounded_pricetable.eco_pricing_green ul {
+background: #bb9453;
+}
+.eco_rounded_pricetable.eco_pricing_green a {
+background: #9E7C44;
+}
+.eco_pricing_green.eco_rounded_pricetable{
+background:none;
+}
+ .eco_pricing_table_green .eco_pricing_heading {
+border-bottom-color: #bb9453;
+}
+.eco_pricing_table_green .eco_table_price {
+background: #bb9453;
+border-color: #9E7C44;
+}
+.eco_pricing_table_green .eco_pricing_heading h4 {
+color: #bb9453;
+}
+.eco_pricing_table_green ul li {
+color: #bb9453;
+}
+.eco_pricing_table_green .eco_pricing_tabel_button {
+background: #bb9453;
+}
+.eco_pricing_table_green ul {
+border-bottom-color: #bb9453;
+}
+.ih-item.circle.effect1 .spinner{
+border: 10px solid #bb9453;
+border-right-color: #333;
+border-bottom-color: #333;
+}
+.ih-item.square.effect9 .info h3{
+background: #bb9453;
+}
+.ih-item.square.effect9.colored .info h3 {
+background: #bb9453;
+}
+.eco_box_icon{
+background:#bb9453;
+border-color: #bb9453;
+}
+.eco_count_icon i{
+color: #bb9453;
+}
+.eco_count:hover .eco_count_border{
+background: #bb9453;
+}
+.eco_readmore{
+background: #bb9453;
+}
+.eco_error_page{
+background: #bb9453;
+}
+.eco_contact_info i{
+color:#bb9453;
+}
+.eco_full_text a:hover{
+border-color:#bb9453;
+}
+.eco_toggle_menu{
+color:#bb9453;
+}
+@media (max-width: 767px){
+ul.my_menu ul.sub-menu li:hover {
+background: none;
+}
+ul.my_menu ul.sub-menu li a:before{
+background: #bb9453;
+}
+ul.navbar-nav li a.active, .fixedmenu ul.menu li a.active, ul.my_menu ul.sub-menu li a.active{
+color:#fff !important;
+}
+}
+

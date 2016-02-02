@@ -1,0 +1,270 @@
+a:hover, a:focus {
+color: #5486bb;
+text-decoration: none;
+}
+::selection {
+	background:#5486bb; /* Safari */
+	color:#fff;
+	}
+::-moz-selection {
+	background: #5486bb; /* Firefox */
+	color:#fff;
+}
+header{
+background-color:#5486bb;
+}
+ul.navbar-nav li a.active, .fixedmenu ul.menu li a.active, ul.my_menu ul.sub-menu li a.active{
+color:#5486bb !important;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+color:#5486bb;
+}
+ul.my_menu ul.sub-menu li:hover{
+background: #5486bb;
+}
+ul.my_menu li.eco_bigmenu ul.sub-menu li.eco_pmcmenutitle ul.sub-menu li:hover a {
+color: #5486bb !important;
+}
+ul.my_menu ul.sub-menu{
+border-bottom-color: #5486bb;
+}
+.menu li a:hover {
+color: #5486bb;
+}
+.tp-leftarrow.default:hover, .tp-rightarrow.default:hover {
+background-color: rgba(84, 134, 187, 0.8) !important;
+}
+.eco_slider_head_text, .eco_slider_head_text1, .eco_slider_head_text2{
+color:#5486bb;
+}
+.eco_color{
+color:#5486bb;
+}
+.tp-caption a:hover {
+background: #5486bb;
+}
+.eco_service_icon{
+box-shadow: 0px 0px 0px 5px #5486bb;
+background:#5486bb;
+}
+.eco_service_icon:hover{
+border-color:#5486bb !important;
+}
+.eco_btn{
+background: #3d6faa;
+border-bottom-color: #32649f;
+}
+.eco_border_line{
+background: #5486bb;
+}
+.eco_featured_green img{
+border: 0px solid #5285bc;
+background: #5285bc;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+background-color: #3d6faa !important;
+border-color: #32649f !important;
+}
+.btn-primary {
+background-color: #3d6faa !important;
+border-color: #32649f !important;
+}
+.gototop{
+background: #5486bb;
+border-bottom-color: #3d6faa;
+}
+.gototop:hover {
+background-color: #5486bb;
+}
+.eco_contact_btn a:hover{
+background:#5486bb;
+}
+.eco_footer_tag a:hover {
+background: #5486bb;
+color:#fff;
+}
+.eco_footer_content li:hover a {
+color: #5486bb;
+}
+.eco_copyight a {
+color: #5486bb;
+}
+ul.eco_filter_title li a:hover, ul.eco_filter_title li a.active{
+background: #5486bb;
+}
+.eco_restoration ul li .eco_restoration_content .eco_restoration_img {
+background: #5486bb;
+}
+.eco_home_count i{
+color: #5486bb;
+}
+.eco_count_number_border{
+background: #5486bb;
+}
+.eco_port_recentimage .eco_port_overdefult{
+background: rgba(84, 134, 187, 0.8);
+}
+.eco-blog-img-hover{
+background-color:rgba(84, 134, 187, 0.8);
+}
+.breadcrumb > .active {
+color: #5486bb;
+}
+.eco_sidebar_post:hover .eco_sidebar_line {
+border-bottom-color: #5486bb;
+}
+.eco_blog_icon, .eco_blog_icon:after{
+background: #5486bb;
+}
+.eco_blog_info span a, .eco_blog_info a {
+color: #5486bb;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+background-color: #5486bb;
+border-color: #5486bb;
+}
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
+background-color: #5486bb;
+border-color: #5486bb;
+}
+.eco_bread ol li a:hover {
+color: #5486bb;
+}
+.eco_port_min_recentimage{
+border-top-color:#5486bb;
+}
+blockquote:hover{
+border-left-color:#5486bb;
+}
+.eco_img_icon{
+border-color: #5486bb;
+background: #5486bb;
+}
+.eco_img_post_data ul li img:hover{
+border-color:#5486bb;
+}
+.btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open > .dropdown-toggle.btn-success{
+background-color: #5486bb;
+border-color: #5486bb;
+}
+.carousel-control:hover, .carousel-control:focus{
+background: #5486bb;
+}
+.eco_port_skill i {
+color: #5486bb;
+}
+.eco_blockquote_blue blockquote:hover, .eco_blockquote_red blockquote:hover, .eco_blockquote_green blockquote:hover, .eco_blockquote_grey blockquote:hover{
+border-color: #5486bb;
+}
+ul.pager i:hover {
+color: #5486bb;
+}
+.eco_blockquote_green blockquote{
+border-color: #5486bb;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, .ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus{
+background-color:#5486bb;
+}
+.nav-tabs > li.active:before, .nav-tabs > li:hover:before{
+background-color:#5486bb;
+}
+.nav-tabs > li.active:hover, .nav-tabs > li:hover, .nav-tabs > li.active:focus, .nav-tabs > li:focus, .nav-tabs > li > a:hover{
+background:#5486bb;
+}
+h6.eco_subheading {
+color:#5486bb;
+}
+h2.eco_trigger.active, h2.eco_trigger:hover {
+background: #5486bb;
+}
+.eco_color5{
+color: #5486bb;
+}
+.progress-bar-success {
+background-color: #5486bb;
+}
+.eco_pricing_green{
+background-color:#5486bb;
+}
+.eco_rounded_pricetable.eco_pricing_green .eco_pricing_heading {
+background: #3d6faa;
+}
+.eco_rounded_pricetable.eco_pricing_green .eco_pricing_heading .eco_table_price {
+background: #5486bb;
+border-color: #3d6faa;
+}
+.eco_rounded_pricetable.eco_pricing_green ul {
+background: #5486bb;
+}
+.eco_rounded_pricetable.eco_pricing_green a {
+background:#3d6faa;
+}
+.eco_pricing_green.eco_rounded_pricetable{
+background:none;
+}
+ .eco_pricing_table_green .eco_pricing_heading {
+border-bottom-color: #5486bb;
+}
+.eco_pricing_table_green .eco_table_price {
+background: #5486bb;
+border-color: #3d6faa;
+}
+.eco_pricing_table_green .eco_pricing_heading h4 {
+color: #5486bb;
+}
+.eco_pricing_table_green ul li {
+color:#5486bb;
+}
+.eco_pricing_table_green .eco_pricing_tabel_button {
+background: #5486bb;
+}
+.eco_pricing_table_green ul {
+border-bottom-color:#5486bb;
+}
+.ih-item.circle.effect1 .spinner{
+border: 10px solid #5486bb;
+border-right-color: #333;
+border-bottom-color: #333;
+}
+.ih-item.square.effect9 .info h3{
+background: #5486bb;
+}
+.ih-item.square.effect9.colored .info h3 {
+background: #5486bb;
+}
+.eco_box_icon{
+background:#5486bb;
+border-color: #5486bb;
+}
+.eco_count_icon i{
+color: #5486bb;
+}
+.eco_count:hover .eco_count_border{
+background: #5486bb;
+}
+.eco_readmore{
+background:#5486bb;
+}
+.eco_error_page{
+background: #5486bb;
+}
+.eco_contact_info i{
+color:#5486bb;
+}
+.eco_full_text a:hover{
+border-color:#5486bb;
+}
+.eco_toggle_menu{
+color:#5486bb;
+}
+@media (max-width: 767px){
+ul.my_menu ul.sub-menu li:hover {
+background: none;
+}
+ul.my_menu ul.sub-menu li a:before{
+background: #5486bb;
+}
+ul.navbar-nav li a.active, .fixedmenu ul.menu li a.active, ul.my_menu ul.sub-menu li a.active{
+color:#fff !important;
+}
+}
